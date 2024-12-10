@@ -7,10 +7,10 @@
 <p>Section 1 | The Data :
 In this section we aim to do some operations on the dataset before training the model on it, processes like :
 
-Data Loading : Load the dataset
-Data Visualization : Visualize dataset features
-Data Cleaning : Remove stopwords and duplicates values
-Data Splitting : Split the dataset into training and testing sets
+Data Loading : Load the dataset<br>
+Data Visualization : Visualize dataset features<br>
+Data Cleaning : Remove stopwords and duplicates values<br>
+Data Splitting : Split the dataset into training and testing sets<br>
 
 Section 2 | The Model :
 The dataset is ready for training, so we create a naive classifier using scikit-learn and thin fit it to the data, and finally we evaluate the model by getting accuracy, classification report and confusion matrix</p>
